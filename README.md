@@ -8,11 +8,11 @@ Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramilk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Who Am I:
+**Who Am I:**
 I'm a britsh autistic 15yo boy here to upload coding projects because
 OPEN SOURCE RULES!!!!
 
-What do you like to do:
+**What do you like to do:
 
 Coding(OFC)
 
@@ -24,18 +24,18 @@ Eating
 
 Travel
 
-Favorite Games:
+**Favorite Games:**
 Psychonauts, Fortnite, Minecraft, Roblox, Apex Legends & Planetside 2
 
-Favorite Bands:
+**Favorite Bands:**
 
 Gorillaz & Daft Punk
 
-Favorite Shows:
+**Favorite Shows:**
 
 Battle For Dream Island
 
-Other Social Media Links:
+**Other Social Media Links:**
 
 Discord:Paramilk#4068
 
