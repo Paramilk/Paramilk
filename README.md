@@ -21,8 +21,10 @@ Travel
 
 Favorite Games:
 Psychonauts, Fortnite, Minecraft, Roblox, Apex Legends & Planetside 2
+
 Favorite Bands:
 Gorillaz & Daft Punk
+
 Favorite Shows:
 Battle For Dream Island
 
