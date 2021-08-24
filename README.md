@@ -1,5 +1,7 @@
 # hello-world
 
- hello my name is Paramilk I am a british teenanger who is learning programing and likes to watch webseries, movies, tv shows, commercials and logos, use (gnu/)linux and play games(mostly fortnite, minecraft, roblox, old games and new games)
+Hello Github it is I Paramilk and Welcome to my GH Profile 
 
-Changes:(14/4/21-12:30) added text
+Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
