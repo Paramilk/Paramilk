@@ -12,7 +12,7 @@ Stats:
 I'm a britsh autistic 15yo boy here to upload coding projects because
 OPEN SOURCE RULES!!!!
 
-**What do you like to do:
+**What do you like to do:**
 
 Coding(OFC)
 
@@ -25,6 +25,7 @@ Eating
 Travel
 
 **Favorite Games:**
+
 Psychonauts, Fortnite, Minecraft, Roblox, Apex Legends & Planetside 2
 
 **Favorite Bands:**
