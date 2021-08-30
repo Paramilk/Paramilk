@@ -1,6 +1,6 @@
-# hello-world
+# Hello-Github
 
-Hello Github it is i Paramilk and Welcome to my GitHub Profile 
+it is i Paramilk and Welcome to my GitHub Profile 
 
 Stats:
 
